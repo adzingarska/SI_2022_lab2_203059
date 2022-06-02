@@ -5,7 +5,6 @@
 
 ### Control Flow Graph
 
-![SI_lab2 CFG](https://user-images.githubusercontent.com/102925621/171662655-545cbad9-85d1-41b4-8cbe-b34050914120.png)
 
 
 ### Цикломатска комплексност
